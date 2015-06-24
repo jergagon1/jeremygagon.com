@@ -1,2 +1,2 @@
 # jeremygagon.com
-portfolio site for Jeremy Gagon
+Portfolio site for web designer Jeremy Gagon
